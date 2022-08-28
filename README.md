@@ -1,10 +1,4 @@
 ### Hi, I'm Geon-Woo 👋
-<p>
-  <em>
-    I am <b>Front-End</b> developer. 👨‍💻 <br>
-    I'm interested in <b>react</b> development these days.
-  </em>  
-</p>
 
 <!--
 **kgwoo/kgwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
